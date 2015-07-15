@@ -35,7 +35,7 @@ const int INF = (int)1E9;
 
 int tests;
 
-int main () {
+int main (int argc, char** argv) {
     cin >> tests;
     while (tests --) {
         int n, k;
